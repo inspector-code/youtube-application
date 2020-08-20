@@ -77,6 +77,44 @@ const DATA_CHANNELS: IChannel[] = [
             }
         ]
     },
+    {
+        name: 'ХайТак',
+        link: 'http://google.com',
+        tags: [
+            {
+                group: ETagGroup.BACKEND,
+                value: 'java',
+                displayValue: 'Java'
+            }
+        ]
+    },
+    {
+        name: 'Веб Дизайн',
+        link: 'http://google.com',
+        tags: [
+            {
+                group: ETagGroup.DESIGN,
+                value: 'sketch',
+                displayValue: 'Sketch'
+            }
+        ]
+    },
+    {
+        name: 'HTML Boss',
+        link: 'http://google.com',
+        tags: [
+            {
+                group: ETagGroup.COMMON,
+                value: 'interview',
+                displayValue: 'Интервью'
+            },
+            {
+                group: ETagGroup.FRONTEND,
+                value: 'javascript',
+                displayValue: 'JavaScript'
+            }
+        ]
+    },
 ]
 
 export const Main: React.FC = () => {
