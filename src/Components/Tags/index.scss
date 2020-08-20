@@ -1,0 +1,53 @@
+@import "../../Styles/variables.scss";
+
+.tags-list {
+  border-top: 1px solid $color-gray;
+  margin-bottom: $base*15;
+
+  &__group {
+    padding-top: $base*5;
+    padding-bottom: $base*5;
+    display: flex;
+    border-bottom: 1px solid $color-gray;
+
+    &-title {
+      flex-basis: $base*50;
+      font-size: $font-size-lg;
+      line-height: $font-size-lg;
+    }
+    &-content {
+      flex-grow: 1;
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+}
+
+.tag-item {
+  margin-right: $base*2;
+
+  &__button {
+    display: block;
+    padding: $base*2 $base*2;
+    font-size: $font-size-sm;
+    line-height: $font-size-sm;
+    border: 1px solid $color-gray;
+    color: $color-black;
+    background-color: transparent;
+    text-decoration: none;
+    border-radius: $base;
+    transition: $transition-duration;
+    cursor: pointer;
+    outline: none;
+
+    &--active {
+      color: $color-white;
+      background-color: $color-red;
+      border-color: $color-red;
+    }
+
+    &:hover:not(&--active) {
+      border-color: $color-black
+    }
+  }
+}

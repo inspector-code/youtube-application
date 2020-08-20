@@ -1,0 +1,50 @@
+@import "../../Styles/variables.scss";
+
+.app-header {
+  display: flex;
+  margin-bottom: $base*15;
+
+  &__col-right {
+    font-size: $font-size-md;
+    line-height: $line-height-md;
+  }
+
+  @media (min-width: $screen-lg-max + 1) {
+    align-items: flex-end;
+    &__col-left,
+    &__col-right {
+      flex-basis: 50%;
+    }
+  }
+
+  @media (max-width: $screen-lg-max) {
+    flex-direction: column;
+
+    &__col-left {
+      margin-bottom: $base*5;
+    }
+  }
+}
+
+h1 {
+  font-size: $font-size-xl;
+  line-height: $line-height-xl;
+  margin: 0 0 $base*3;
+  font-weight: 300;
+}
+h2 {
+  font-size: $font-size-lg;
+  line-height: $line-height-lg;
+  margin: 0;
+  font-weight: normal;
+  color: $color-red;
+}
+
+.link-admin {
+  text-decoration: none;
+  color: $color-red;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
