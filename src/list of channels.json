@@ -2,37 +2,373 @@
   {
     "name": "Хауди Хо - Просто о мире IT!",
     "link": "https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Android",
+        "value": "android",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "iOS",
+        "value": "ios",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Unity",
+        "value": "unity",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "GraphQL",
+        "value": "graphql",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "PHP",
+        "value": "php",
+        "group": "backend"
+      },
+      {
+        "displayValue": "C Sharp",
+        "value": "c sharp",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "C++",
+        "value": "c++",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Java",
+        "value": "java",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Разработка игр",
+        "value": "разработка игр",
+        "group": "common"
+      },
+      {
+        "displayValue": "Безопасность",
+        "value": "безопасность",
+        "group": "common"
+      },
+      {
+        "displayValue": "Новости IT",
+        "value": "новости it",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Гоша Дударь",
     "link": "https://www.youtube.com/user/PlurrimiTube",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Android",
+        "value": "android",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "iOS",
+        "value": "ios",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Unity",
+        "value": "unity",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "GraphQL",
+        "value": "graphql",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "PHP",
+        "value": "php",
+        "group": "backend"
+      },
+      {
+        "displayValue": "C Sharp",
+        "value": "c sharp",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "C++",
+        "value": "c++",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Java",
+        "value": "java",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Разработка игр",
+        "value": "разработка игр",
+        "group": "common"
+      },
+      {
+        "displayValue": "Безопасность",
+        "value": "безопасность",
+        "group": "common"
+      },
+      {
+        "displayValue": "Новости IT",
+        "value": "новости it",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "loftblog",
     "link": "https://www.youtube.com/user/loftblog",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Vue.js",
+        "value": "vue.js",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Angular",
+        "value": "angular",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "ReactJS",
+        "value": "reactjs",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Android",
+        "value": "android",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "iOS",
+        "value": "ios",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Unity",
+        "value": "unity",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "PHP",
+        "value": "php",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Node.js",
+        "value": "node.js",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Веб-дизайн",
+        "value": "веб-дизайн",
+        "group": "design"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Образование",
+        "value": "образование",
+        "group": "common"
+      },
+      {
+        "displayValue": "Разработка игр",
+        "value": "разработка игр",
+        "group": "common"
+      },
+      {
+        "displayValue": "Новости IT",
+        "value": "новости it",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Dasha Tsenter",
     "link": "https://www.youtube.com/channel/UCz-pon5ozZMUVUtK7TEZQTw",
-    "tags": []
-  },
-  {
-    "name": "VNNV",
-    "link": "https://www.youtube.com/user/Anicornes",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Девушка программист",
+        "value": "девушка программист",
+        "group": "common"
+      },
+      {
+        "displayValue": "Америка США",
+        "value": "америка сша",
+        "group": "common"
+      },
+      {
+        "displayValue": "Эмиграция",
+        "value": "эмиграция",
+        "group": "common"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Web Developer Blog",
     "link": "https://www.youtube.com/user/AlexeySuprun",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "TypeScript",
+        "value": "typescript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Vue.js",
+        "value": "vue.js",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Angular",
+        "value": "angular",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "ReactJS",
+        "value": "reactjs",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "PHP",
+        "value": "php",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Оптимизация сайтов",
+        "value": "оптимизация сайтов",
+        "group": "common"
+      },
+      {
+        "displayValue": "Образование",
+        "value": "образование",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "#SimpleCode",
     "link": "https://www.youtube.com/channel/UCtLKO1Cb2GVNrbU7Fi0pM0w",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "C++",
+        "value": "c++",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Образование",
+        "value": "образование",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "АйТиБорода",
@@ -42,28 +378,187 @@
         "displayValue": "Интервью",
         "value": "интервью",
         "group": "common"
+      },
+      {
+        "displayValue": "Новости IT",
+        "value": "новости it",
+        "group": "common"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
       }
     ]
   },
   {
     "name": "ExtremeCode",
     "link": "https://www.youtube.com/user/iproname",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": ".NET",
+        "value": ".net",
+        "group": "backend"
+      },
+      {
+        "displayValue": "C#",
+        "value": "c#",
+        "group": "backend"
+      },
+      {
+        "displayValue": "C++",
+        "value": "c++",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Glo Academy",
     "link": "https://www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Vue.js",
+        "value": "vue.js",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Angular",
+        "value": "angular",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "ReactJS",
+        "value": "reactjs",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Figma",
+        "value": "figma",
+        "group": "design"
+      },
+      {
+        "displayValue": "Веб-дизайн",
+        "value": "веб-дизайн",
+        "group": "design"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Образование",
+        "value": "образование",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "ProgBlog",
     "link": "https://www.youtube.com/channel/UC1QrUyRmSoUTPVSbHv7arcA",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Девушка программист",
+        "value": "девушка программист",
+        "group": "common"
+      },
+      {
+        "displayValue": "Америка США",
+        "value": "америка сша",
+        "group": "common"
+      },
+      {
+        "displayValue": "Поиск работы",
+        "value": "поиск работы",
+        "group": "common"
+      },
+      {
+        "displayValue": "Эмиграция",
+        "value": "эмиграция",
+        "group": "common"
+      },
+      {
+        "displayValue": "Бизнес в IT",
+        "value": "бизнес в it",
+        "group": "common"
+      },
+      {
+        "displayValue": "Собеседования",
+        "value": "собеседования",
+        "group": "common"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      },
+      {
+        "displayValue": "Интервью",
+        "value": "интервью",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "WayUp",
     "link": "https://www.youtube.com/channel/UCrWP9UeNep74kW0cxY7YPpw",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Фриланс",
+        "value": "фриланс",
+        "group": "common"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Веб-дизайн",
+        "value": "веб-дизайн",
+        "group": "design"
+      },
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      }
+    ]
   },
   {
     "name": "Sergey Nemchinsky (foxminded)",
@@ -466,12 +961,49 @@
   {
     "name": "Степан Береговой - с кодом по жизни",
     "link": "https://www.youtube.com/channel/UCrKUQBc3GMnhwzUlbZRssWA",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "C#",
+        "value": "c#",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Удаленка",
+        "value": "удаленка",
+        "group": "common"
+      },
+      {
+        "displayValue": "Образование",
+        "value": "образование",
+        "group": "common"
+      },
+      {
+        "displayValue": "Фриланс",
+        "value": "фриланс",
+        "group": "common"
+      },
+      {
+        "displayValue": "C++",
+        "value": "c++",
+        "group": "backend"
+      }
+    ]
   },
   {
     "name": "TGrey - Обучение Программированию",
     "link": "https://www.youtube.com/channel/UChPTGHdmjQIWpXfUL7QrjhQ",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Node.js",
+        "value": "node.js",
+        "group": "backend"
+      }
+    ]
   }
 ]
 
