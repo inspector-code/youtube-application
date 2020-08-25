@@ -1,9 +1,9 @@
 import React, {useEffect, useState} from 'react'
 import './index.scss'
-import {Tags} from "../Tags";
-import {Channels} from "../Channels";
-import {ITag, IChannel} from "../../models";
-import {BASE_URL} from "../../consts";
+import {Tags} from "../Tags"
+import {Channels} from "../Channels"
+import {ITag, IChannel} from "../../models"
+import {BASE_URL} from "../../consts"
 
 export const Main: React.FC = () => {
     const [channels, setChannels] = useState<IChannel[]>([])
@@ -23,10 +23,13 @@ export const Main: React.FC = () => {
     }, [])
 
     const filteredData = () => {
-        return channels.filter((channel) => {
-            return activeTags.every((activeTag) => {
-                return channel.tags.some((channelTag) => {
-                    return JSON.stringify(activeTag) === JSON.stringify(channelTag)
+        return channels.filter(channel => {
+            return activeTags.every(activeTag => {
+                return channel.tags.some(channelTag => {
+                    return (
+                        activeTag.value === channelTag.value &&
+                        activeTag.group === channelTag.group
+                    )
                 })
             })
         })
@@ -41,6 +44,6 @@ export const Main: React.FC = () => {
             />
             <Channels channels={activeTags.length ? filteredData() : channels}/>
         </div>
-    );
+    )
 }
 

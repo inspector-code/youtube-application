@@ -39,16 +39,16 @@ export const Tags: React.FC<IProps> = ({tags, activeTags, onSetActiveTags}) => {
         switch (tag.group) {
             case ETagGroup.FRONTEND:
                 frontendTags.push(tagItem(tag))
-                break;
+                break
             case ETagGroup.BACKEND:
                 backendTags.push(tagItem(tag))
-                break;
+                break
             case ETagGroup.DESIGN:
                 designTags.push(tagItem(tag))
-                break;
+                break
             case ETagGroup.COMMON:
                 commonTags.push(tagItem(tag))
-                break;
+                break
         }
     })
 

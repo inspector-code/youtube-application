@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react'
 import "./index.scss"
-import {IAdmin} from "../../models";
-import {BASE_URL} from "../../consts";
+import {IAdmin} from "../../models"
+import {BASE_URL} from "../../consts"
 
 
 export const Header: React.FC = () => {
@@ -29,7 +29,7 @@ export const Header: React.FC = () => {
             </React.Fragment>
         ))
     } else {
-        admins = <div>Загрузка...</div>;
+        admins = <div>Загрузка...</div>
     }
 
     return (
@@ -43,6 +43,6 @@ export const Header: React.FC = () => {
                 {admins}
             </div>
         </div>
-    );
+    )
 }
 

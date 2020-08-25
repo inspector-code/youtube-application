@@ -1,5 +1,5 @@
-import React from "react";
-import {IChannel} from "../../models";
+import React from "react"
+import {IChannel} from "../../models"
 import "./index.scss"
 
 interface IProps {

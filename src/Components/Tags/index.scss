@@ -21,6 +21,15 @@
       display: flex;
       flex-wrap: wrap;
     }
+
+    @media (max-width: $screen-xs-max) {
+      flex-direction: column;
+      align-items: flex-start;
+
+      &-title {
+        margin-bottom: $base*3;
+      }
+    }
   }
 }
 
