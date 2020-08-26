@@ -563,12 +563,119 @@
   {
     "name": "Sergey Nemchinsky (foxminded)",
     "link": "https://www.youtube.com/user/pro100fox2",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": ".NET",
+        "value": ".net",
+        "group": "backend"
+      },
+      {
+        "displayValue": "C Sharp",
+        "value": "c sharp",
+        "group": "backend"
+      },
+      {
+        "displayValue": "C#",
+        "value": "c#",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "C++",
+        "value": "c++",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Курсы",
+        "value": "курсы",
+        "group": "common"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Образование",
+        "value": "образование",
+        "group": "common"
+      },
+      {
+        "displayValue": "Новости IT",
+        "value": "новости it",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "WebForMySelf",
     "link": "https://www.youtube.com/user/webformyself",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "TypeScript",
+        "value": "typescript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Vue.js",
+        "value": "vue.js",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Angular",
+        "value": "angular",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "ReactJS",
+        "value": "reactjs",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "PHP",
+        "value": "php",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "SQL",
+        "value": "sql",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Веб-дизайн",
+        "value": "веб-дизайн",
+        "group": "design"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Senior Software Vlogger",
@@ -578,58 +685,418 @@
         "displayValue": "JavaScript",
         "value": "javascript",
         "group": "frontend"
+      },
+      {
+        "displayValue": "Удаленка",
+        "value": "удаленка",
+        "group": "common"
+      },
+      {
+        "displayValue": "Поиск работы",
+        "value": "поиск работы",
+        "group": "common"
+      },
+      {
+        "displayValue": "Эмиграция",
+        "value": "эмиграция",
+        "group": "common"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      },
+      {
+        "displayValue": "Фриланс",
+        "value": "фриланс",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "Интервью",
+        "value": "интервью",
+        "group": "common"
+      },
+      {
+        "displayValue": "Германия",
+        "value": "германия",
+        "group": "common"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "C++",
+        "value": "c++",
+        "group": "backend"
       }
     ]
   },
   {
     "name": "DKA-DEVELOP",
     "link": "https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Vue.js",
+        "value": "vue.js",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "S0er",
     "link": "https://www.youtube.com/channel/UCe_TcJarfs-HKy3NySy8Kng",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Angular",
+        "value": "angular",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Unity",
+        "value": "unity",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Фриланс",
+        "value": "фриланс",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "PRO роботов",
     "link": "https://www.youtube.com/channel/UCR90e63q8eP9_D2N3yhQV0g",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Новости IT",
+        "value": "новости it",
+        "group": "common"
+      },
+      {
+        "displayValue": "Разработка роботов",
+        "value": "разработка роботов",
+        "group": "common"
+      },
+      {
+        "displayValue": "Машинное обучение",
+        "value": "машинное обучение",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Маткульт-привет! - Алексей Савватеев и Ко",
     "link": "https://www.youtube.com/channel/UCWk8OxsylgmZ_VgY7jC9pjQ",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Образование",
+        "value": "образование",
+        "group": "common"
+      },
+      {
+        "displayValue": "Математика",
+        "value": "математика",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Фрилансер по жизни",
     "link": "https://www.youtube.com/channel/UCedskVwIKiZJsO8XdJdLKnA",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Веб-дизайн",
+        "value": "веб-дизайн",
+        "group": "design"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Фриланс",
+        "value": "фриланс",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Быть Программистом",
     "link": "https://www.youtube.com/user/CRIK0VA",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Веб-дизайн",
+        "value": "веб-дизайн",
+        "group": "design"
+      },
+      {
+        "displayValue": "Figma",
+        "value": "figma",
+        "group": "design"
+      },
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      }
+    ]
   },
   {
     "name": "CodeDojo",
     "link": "https://www.youtube.com/channel/UCY10FZglXJ8RL3xB04VpykQ",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "ReactJS",
+        "value": "reactjs",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Live coding",
+        "value": "live coding",
+        "group": "common"
+      },
+      {
+        "displayValue": "Разработка игр",
+        "value": "разработка игр",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Vladilen Minin",
     "link": "https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "TypeScript",
+        "value": "typescript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Vue.js",
+        "value": "vue.js",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Angular",
+        "value": "angular",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "ReactJS",
+        "value": "reactjs",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Собеседования",
+        "value": "собеседования",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "IT-KAMASUTRA",
     "link": "https://www.youtube.com/channel/UCTW0FUhT0m-Bqg2trTbSs0g",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "TypeScript",
+        "value": "typescript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Vue.js",
+        "value": "vue.js",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Angular",
+        "value": "angular",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "ReactJS",
+        "value": "reactjs",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Интервью",
+        "value": "интервью",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      },
+      {
+        "displayValue": "Собеседования",
+        "value": "собеседования",
+        "group": "common"
+      },
+      {
+        "displayValue": "Поиск работы",
+        "value": "поиск работы",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "CODE BLOG",
     "link": "https://www.youtube.com/user/admshwan",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Машинное обучение",
+        "value": "машинное обучение",
+        "group": "common"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "C#",
+        "value": "c#",
+        "group": "backend"
+      }
+    ]
   },
   {
     "name": "SHIFL",
@@ -776,187 +1243,840 @@
   {
     "name": "Misha Newcomer",
     "link": "https://www.youtube.com/user/newcomer2usa",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Америка США",
+        "value": "америка сша",
+        "group": "common"
+      },
+      {
+        "displayValue": "Эмиграция",
+        "value": "эмиграция",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "Интервью",
+        "value": "интервью",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Shulepov Code",
     "link": "https://www.youtube.com/channel/UCDsO5GuRbRM5E_nlTgZGzKQ",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Веб-дизайн",
+        "value": "веб-дизайн",
+        "group": "design"
+      },
+      {
+        "displayValue": "Интервью",
+        "value": "интервью",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Katya Kravchenko US Life",
     "link": "https://www.youtube.com/channel/UCmiv7ZiPmP98mr2Lrfxg8lA",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Девушка программист",
+        "value": "девушка программист",
+        "group": "common"
+      },
+      {
+        "displayValue": "Америка США",
+        "value": "америка сша",
+        "group": "common"
+      },
+      {
+        "displayValue": "Эмиграция",
+        "value": "эмиграция",
+        "group": "common"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "Германия",
+        "value": "германия",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "#BlondieCode",
     "link": "https://www.youtube.com/channel/UCSsg9NLCse2XQCIRgfmJu3Q",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Девушка программист",
+        "value": "девушка программист",
+        "group": "common"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      }
+    ]
   },
   {
     "name": "Блог Тестировщика",
     "link": "https://www.youtube.com/channel/UCMnFV9ikfd92j4FgiuKr5tA",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Java",
+        "value": "java",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      },
+      {
+        "displayValue": "Америка США",
+        "value": "америка сша",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Девшахта",
     "link": "https://www.youtube.com/channel/UCTSVfbCKN3nZbogPtOCHcMg",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "Интервью",
+        "value": "интервью",
+        "group": "common"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      }
+    ]
   },
   {
     "name": "Murrengan",
     "link": "https://www.youtube.com/channel/UC8D-Zw9iR6pRyGOXHVqzlQw",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Django",
+        "value": "django",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "dudvstud",
     "link": "https://www.youtube.com/channel/UCeISxWd5UTxH6-uXp3ev-5w",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Математика",
+        "value": "математика",
+        "group": "common"
+      },
+      {
+        "displayValue": "Образование",
+        "value": "образование",
+        "group": "common"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Програмишка РФ",
     "link": "https://www.youtube.com/user/ProgramishkaRU",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      }
+    ]
   },
   {
     "name": "Artem Dimitrov",
     "link": "https://www.youtube.com/user/MrMilkeet",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Удаленка",
+        "value": "удаленка",
+        "group": "common"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "IT каждый день",
     "link": "https://www.youtube.com/channel/UCAlRksF5338XmSMbwS3W7eA",
-    "tags": []
-  },
-  {
-    "name": "QA Guid Podcast",
-    "link": "https://google.com",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Mobile Developer",
     "link": "https://www.youtube.com/channel/UCxGXkPks1Ykbx2Plt4DgZlA",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Android",
+        "value": "android",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "iOS",
+        "value": "ios",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Kotlin",
+        "value": "kotlin",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "ProConf",
     "link": "https://www.youtube.com/channel/UCvasfOIImo7D9lQkb1Wc1tw",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Новости IT",
+        "value": "новости it",
+        "group": "common"
+      },
+      {
+        "displayValue": "Интервью",
+        "value": "интервью",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Сам себе разработчик",
     "link": "https://www.youtube.com/channel/UCZavnENoyHObZlJrXKLvOEQ",
-    "tags": []
-  },
-  {
-    "name": "Software Development Online Conference",
-    "link": "https://google.com",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Фриланс",
+        "value": "фриланс",
+        "group": "common"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Оля Тележная",
     "link": "https://www.youtube.com/channel/UC1U83Ld5GokcYxWJ-JYn4EA",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Девушка программист",
+        "value": "девушка программист",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "TestProo",
     "link": "https://www.youtube.com/channel/UCuJj75DD0Ad3AQ44JbIq4sQ",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Америка США",
+        "value": "америка сша",
+        "group": "common"
+      },
+      {
+        "displayValue": "Поиск работы",
+        "value": "поиск работы",
+        "group": "common"
+      },
+      {
+        "displayValue": "Эмиграция",
+        "value": "эмиграция",
+        "group": "common"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      },
+      {
+        "displayValue": "Интервью",
+        "value": "интервью",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Программист-эмигрант TV",
     "link": "https://www.youtube.com/channel/UChF99XymAoIRzzcJC6taJ0A",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Leetcode",
+        "value": "leetcode",
+        "group": "common"
+      },
+      {
+        "displayValue": "Америка США",
+        "value": "америка сша",
+        "group": "common"
+      },
+      {
+        "displayValue": "Эмиграция",
+        "value": "эмиграция",
+        "group": "common"
+      },
+      {
+        "displayValue": "Поиск работы",
+        "value": "поиск работы",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "CoderLog",
     "link": "https://www.youtube.com/channel/UCQFJjX4FFGp4zLWo1R-viKQ",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "PHP",
+        "value": "php",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Разработка игр",
+        "value": "разработка игр",
+        "group": "common"
+      },
+      {
+        "displayValue": "Live coding",
+        "value": "live coding",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "DotNet4U",
     "link": "https://www.youtube.com/channel/UCewYYxUkpNObYu6ugGT-MQw",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": ".NET",
+        "value": ".net",
+        "group": "backend"
+      },
+      {
+        "displayValue": "C Sharp",
+        "value": "c sharp",
+        "group": "backend"
+      },
+      {
+        "displayValue": "C#",
+        "value": "c#",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "ProgramArt",
     "link": "https://www.youtube.com/channel/UCM4EAYoM6BVQZBCjs_EcE9w",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "DevOps",
+        "value": "devops",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "C Sharp",
+        "value": "c sharp",
+        "group": "backend"
+      }
+    ]
   },
   {
     "name": "Excalib",
     "link": "https://www.youtube.com/channel/UCCfwCoomcJg0yQfGXiEUJyg",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "SQL",
+        "value": "sql",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      },
+      {
+        "displayValue": "Поиск работы",
+        "value": "поиск работы",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Александр Шиллинг",
     "link": "https://www.youtube.com/user/dignityinside",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "PHP",
+        "value": "php",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Курсы",
+        "value": "курсы",
+        "group": "common"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "VL-Systems",
     "link": "https://www.youtube.com/channel/UC3J-fu8MlGRjuF6nelsg2eQ",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Разработка роботов",
+        "value": "разработка роботов",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Макс Пронько",
     "link": "https://www.youtube.com/channel/UCB8LoPmC2MCVgohn_-gzU3A",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Поиск работы",
+        "value": "поиск работы",
+        "group": "common"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "ITКультура",
     "link": "https://www.youtube.com/channel/UCp-t0_gm6q82nMP-eEF-8oA",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Новости IT",
+        "value": "новости it",
+        "group": "common"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      },
+      {
+        "displayValue": "Удаленка",
+        "value": "удаленка",
+        "group": "common"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "IT camp",
     "link": "https://www.youtube.com/channel/UCkuZ-5vdtL8TcIglgXUlXaA",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Девушка программист",
+        "value": "девушка программист",
+        "group": "common"
+      },
+      {
+        "displayValue": "Бизнес в IT",
+        "value": "бизнес в it",
+        "group": "common"
+      },
+      {
+        "displayValue": "Мотивация",
+        "value": "мотивация",
+        "group": "common"
+      },
+      {
+        "displayValue": "Интервью",
+        "value": "интервью",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Записки фронтендера",
     "link": "https://www.youtube.com/channel/UCd63YBqE1I_tedyuYATmz6Q",
-    "tags": []
-  },
-  {
-    "name": "Валерий Лис",
-    "link": "https://www.youtube.com/channel/UCa8WJV3w43Mx9IRTiEDlfAw",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Django School",
     "link": "https://www.youtube.com/channel/UC_hPYclmFCIENpMUHpPY8FQ",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Vue.js",
+        "value": "vue.js",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Django",
+        "value": "django",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Борода, котэ и свитер",
     "link": "https://www.youtube.com/channel/UCTi3yCmNQ3u2aBaPSg2BJJQ",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Django",
+        "value": "django",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Onigiri",
     "link": "https://www.youtube.com/channel/UCzdmz_lLWT_dPqOvFjXAMVg",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Python",
+        "value": "python",
+        "group": "backend"
+      },
+      {
+        "displayValue": "Монологи",
+        "value": "монологи",
+        "group": "common"
+      },
+      {
+        "displayValue": "Образование",
+        "value": "образование",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "Archakov Blog",
     "link": "https://www.youtube.com/channel/UCdldbhAwO16vjnDwACTs5gQ",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Vue.js",
+        "value": "vue.js",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Angular",
+        "value": "angular",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "ReactJS",
+        "value": "reactjs",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Уроки",
+        "value": "уроки",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "[NO OFFENCE]",
     "link": "https://www.youtube.com/channel/UC2QJf0YXCH57FR588wQIaSg",
-    "tags": []
-  },
-  {
-    "name": "Как стать программистом",
-    "link": "https://google.com",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "Интервью",
+        "value": "интервью",
+        "group": "common"
+      }
+    ]
   },
   {
     "name": "openWeb - Веб прораммирование на языках PHP и JS",
     "link": "https://www.youtube.com/channel/UCLD7Vu4pqYFIY6CNGW16J6Q",
-    "tags": []
+    "tags": [
+      {
+        "displayValue": "HTML",
+        "value": "html",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "CSS",
+        "value": "css",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "JavaScript",
+        "value": "javascript",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "Vue.js",
+        "value": "vue.js",
+        "group": "frontend"
+      },
+      {
+        "displayValue": "PHP",
+        "value": "php",
+        "group": "backend"
+      },
+      {
+        "displayValue": "SQL",
+        "value": "sql",
+        "group": "backend"
+      }
+    ]
   },
   {
     "name": "Степан Береговой - с кодом по жизни",
